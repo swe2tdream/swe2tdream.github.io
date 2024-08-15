@@ -1,4 +1,2 @@
-# Swe2tDream Site in developing . . .
-## Expect
-### With love, swe2tdream
-<a href="brsimulator.html">Belarusian Railway Simulator</a>
+<a href="brsimulator.html">ZD Game TG Channel</a>
+### by s2d
